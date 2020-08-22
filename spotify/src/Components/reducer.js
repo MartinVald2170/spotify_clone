@@ -9,8 +9,7 @@ export const initialState = {
   playing: false,
   item: null,
   //add token while debugging to avoid loging in all the time
-  //token:"BQBn-hkXZXMcC_OsPJ3fddk_5bAymf8VioWniNA5ECOCE_FKi0OZTKokffr-3I79evtWZbAo_ygNg3VjaW-KNXK3x0KKEtB1ZAHL8Kmgh6RzvBK8LC2dKKR0T33D4jsP2ZCsatuwrJpFsApvngioHGI0ewLNipez"
-  
+  //token:
 };
 
 const reducer = (state, action) => {
